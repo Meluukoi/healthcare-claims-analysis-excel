@@ -59,12 +59,12 @@ The workbook includes:
 ## Visualizations
 
 ### Billed vs. Paid Amount by Payer
-![Billed vs Paid Amount by Payer](billed-vs-paid-by-payer.png)
+![Billed vs Paid Amount by Payer](billed-vs-paid-by-payer.png.png)
 
 This chart compares total billed charges with total payments received across insurance payers.
 
 ### Denied Claims by Reason
-![Denied Claims by Reason](denied-claims-by-reason.png)
+![Denied Claims by Reason](denied-claims-by-reason.png.png)
 
 This chart shows the frequency of each claim denial reason and highlights the most common causes of denied claims.
 
